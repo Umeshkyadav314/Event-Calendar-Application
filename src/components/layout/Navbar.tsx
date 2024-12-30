@@ -13,10 +13,10 @@ export const Navbar = () => {
           <a href="/" className="mx-3 text-white">
             Home
           </a>
-          <a href="/calendar" className="mx-3 text-white">
+          <a href="/" className="mx-3 text-white">
             Calendar
           </a>
-          <a href="/events" className="mx-3 text-white">
+          <a href="/" className="mx-3 text-white">
             Events
           </a>
         </div>
